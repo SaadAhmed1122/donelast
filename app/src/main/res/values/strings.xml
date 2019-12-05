@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Semister Project</string>
+    <string name="st_add_products_product_image">Product Name</string>
+    <string name="st_add_products_product_name">Add Product</string>
+    <string name="st_add_products_measuring_unit">Select Unit</string>
+    <string name="st_add_products_available_stock">Available Stock</string>
+    <string name="st_add_products_add_tag">Add Tag</string>
+    <string name="st_add_products_purchase_cost">Purchase Cost</string>
+    <string name="st_add_products_sale_price">Sale Price</string>
+</resources>
